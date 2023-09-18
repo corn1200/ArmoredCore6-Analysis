@@ -6,7 +6,8 @@
 # 1. 이동
 ## 기본 이동
 
-<iframe width="941" height="539" src="https://www.youtube.com/embed/h9uPb_5z39U" title="아머드 코어6 기본 이동" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div>
+<iframe width="941" height="539" src="https://www.youtube.com/embed/h9uPb_5z39U" title="아머드 코어6 기본 이동" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 1. 기본 이동 시 걸어다님.  
 2. 현재 기체가 보고 있는 방향과 다른 방향으로 이동할 시 회전 후 이동함.
