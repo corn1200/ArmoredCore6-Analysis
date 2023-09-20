@@ -46,6 +46,11 @@
 
 [![상승](https://img.youtube.com/vi/hKJArCeoC0g/0.jpg)](https://www.youtube.com/watch?v=hKJArCeoC0g)
 
+1. 점프를 유지할 경우 지속적으로 EN 에너지를 소비하여 상승한다.
+2. 부스트 on 상태일 경우 공중에서 더 고속으로 이동한다.
+3. 상승 중엔 이동과 퀵 부스트를 사용할 수 있다.
+4. 이동이 없으면 추락할 때 가속도가 생기고, 공중에서 이동할 경우 천천히 활강하며 추락한다.
+
 ## 어썰트 부스트
 
 [![어썰트 부스트](https://img.youtube.com/vi/TQyDlCJ5mxI/0.jpg)](https://www.youtube.com/watch?v=TQyDlCJ5mxI)
